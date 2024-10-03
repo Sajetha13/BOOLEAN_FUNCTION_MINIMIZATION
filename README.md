@@ -37,6 +37,15 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
+
+#### Developed by:
+S.Sajetha
+
+#### RegisterNumber:
+212223100049
+
+
+
 ```
 module Verilog1(A,B,C,D,W,X,Y,Z,F1,F2);
 input A,B,C,D,W,X,Y,Z;
@@ -56,11 +65,6 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
-
-Developed by: S.Sajetha
-
-RegisterNumber: 212223100049
-
 
 
 ![Screenshot (159)](https://github.com/user-attachments/assets/3cc2293e-4599-4c96-950d-059c92ebe6a5)
