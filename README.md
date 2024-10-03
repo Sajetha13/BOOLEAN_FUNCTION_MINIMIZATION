@@ -16,7 +16,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+**Logic Diagram and Truth Table**
+![Screenshot 2024-10-03 105953](https://github.com/user-attachments/assets/09887845-ce4e-4076-847d-375c48e7d372)
 
 **Procedure**
 
@@ -58,7 +59,6 @@ Developed by: S.Sajetha
 RegisterNumber: 212223100049
 
 
-**RTL realization**
 
 ![Screenshot (159)](https://github.com/user-attachments/assets/3cc2293e-4599-4c96-950d-059c92ebe6a5)
 
